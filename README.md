@@ -11,6 +11,17 @@
 </blockqote>
 </div>
 
+<div align="center" style="margin:auto">
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
 <details closed>
 <summary>About me 👈😎</summary>
 
@@ -36,17 +47,6 @@ I have good skills working mostly with **Javascript** and **PHP**, and related t
 As a technician in System Development, I also feel confortable and have knowledge working with other tools such as **Java**, **Python**, **SQL** for database queries, code version control with **GIT** and container build/management with **Docker**.
 
 Although these are some of the hard skills I have, I'm open to learn what is necessary to deliver challeging tasks and new features. 💪💪
-  
-<div align="right" style="margin:auto">
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="20" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
   
 </details>
 
