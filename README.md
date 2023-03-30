@@ -28,13 +28,13 @@ As a technician in System Development, I also feel confortable and have knowledg
 
 Although these are some of the hard skills I have, I'm open to learn what is necessary to deliver challeging tasks and new features. 💪💪
 
-<div align="center" style="margin:32px auto">
+<div align="center" style="margin:auto">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celiovjunior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div align="center" style="margin:32px auto">
+<div align="center" style="margin:auto">
 
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
