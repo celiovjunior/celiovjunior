@@ -1,7 +1,7 @@
 <h1 align="center">Célio Júnior</h1>
 
-<div align="center">
-<b>Web Developer | Full Stack | 🔋⚛🐘🐧🐋</b>
+<div align="center">,
+<b>Web Developer • Full Stack • 🔋⚛🐘🐧🐋 </b>
 <br>
 <br>
 <blockquote>
