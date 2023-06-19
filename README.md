@@ -39,7 +39,7 @@ such as e-commerce, landing page and management system, focusing in problem solv
 I have good skills working mostly with **Javascript** and **PHP**, and related technologies as well, such as **Typescript**,
 **React**, **Node**, **Laravel** and knowledge about **MVC** and **Restful** archtecture.
  
-As a technician in <i>System Development</i>, I also have experience with other tools such as **Java**, **Python**, **SQL** for database queries, code version control with **GIT** and a little about container build/management with **Docker**.
+As a graduate in <i>Web Programming</i>, I also have knowledge about some important principles of software development, such as Objected Oriented Programming, Algorithms, System and Data Analysis, Database management and more.
 
 Although these are some of the hard skills I have, I'm open to learn what is necessary to deliver challeging tasks and new features. 💪💪
     
