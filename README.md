@@ -1,7 +1,7 @@
 <h1 align="center">Célio Júnior</h1>
 
 <div align="center">
-<b>Web Developer</b>
+<b>Software Developer</b>
 <br>
 <br>
 <blockquote>
