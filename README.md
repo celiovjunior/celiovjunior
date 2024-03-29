@@ -34,7 +34,7 @@ I am a brazilian developer living in Australia, passionate about web development
 As a way to improve my skills and work flow, I've been building some personal projects using the tools I'm most confortable with,
 such as e-commerce, landing page and management system, focusing in problem solving and good practice.
 
-Professionally, I have worked using mostly **Javascript** for both *front-end* and *back-end* applications, in addition to other tools such as Java, PHP, MySQL, GIT, Docker...
+Professionally, I have worked using mostly **Javascript** for both *front-end* and *back-end* applications, in addition to other tools such as Java, PHP, Docker, GIT...
  
 Holding an Associate's Degree in <i>Web Development</i>, I also have knowledge about principles of software enginering, such as Objected Oriented Programming, Algorithms, System and Data Analysis, Database management and more.
 
