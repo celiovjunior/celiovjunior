@@ -1,7 +1,7 @@
 <h1 align="center">Celio Junior</h1>
 
 <div align="center">
-<b>Software Engineer | 🔋🪟⚛️#️⃣</b>
+<b>Software Engineer | 🔋🎨⚛️#️⃣</b>
 <br>
 <br>
 <blockquote>
@@ -17,7 +17,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
@@ -29,14 +28,14 @@
 
 Hello!! I'm Celio Junior. :wave: :wave:
 
-I am a brazilian developer living in Australia, passionate about web development and technology, studing programming since 2021.
+I am a Brazilian developer living in Australia, passionate about web development and technology, working with programming since 2021.
 
 As a way to improve my skills and work flow, I've been building some personal projects using the tools I'm most confortable with,
 such as e-commerce, landing page and management system, focusing in problem solving and good practice.
 
-Professionally, I have worked using mostly **Javascript** for both *front-end* and *back-end* applications, in addition to other tools such as Java, PHP, Docker, GIT...
+Professionally, I have worked using mostly **Javascript** for both *front-end* and *back-end* applications, in addition to other tools such as Java, PHP, Git, Docker...
  
-Holding an Associate's Degree in <i>Web Development</i>, I also have knowledge about principles of software enginering, such as Objected Oriented Programming, Algorithms, System and Data Analysis, Database management and more.
+Holding an Associate's Degree in <i>Web Development</i>, I also have knowledge about principles of software enginering, such as Objected Oriented Programming, Algorithms, System and Data Analysis, Database Management, Security Practices and more.
 
 Although these are some of the hard skills I possess, I don't feel intimidated to learn something new to deliver challenging tasks. 💪💪
     
