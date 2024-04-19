@@ -1,7 +1,7 @@
 <h1 align="center">Celio Junior</h1>
 
 <div align="center">
-<b>Software Developer | 🔋🎨⚛️#️⃣</b>
+<b>Software Developer</b>
 <br>
 <br>
 <blockquote>
@@ -11,16 +11,6 @@
 </blockqote>
 </div>
 
-<div align="center" style="margin:auto">
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-          
-</div>
 
 <details closed>
 <summary>About me 👈😎</summary>
