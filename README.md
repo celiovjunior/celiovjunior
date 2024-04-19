@@ -13,7 +13,7 @@
 
 
 <details closed>
-<summary>About me 👈😎</summary>
+<summary>About me 👈</summary>
 
 ---
 
@@ -28,7 +28,7 @@ Professionally, I have worked using mostly **Javascript** for both *front-end* a
  
 Holding an Associate's Degree in <i>Web Programming</i>, I also have knowledge about principles of software enginering, such as Objected Oriented Programming, Algorithms, System and Data Analysis, Database Management, Security Practices and more.
 
-Although these are some of the hard skills I possess, I don't feel intimidated to learn something new to deliver challenging tasks. 💪💪
+Although these are some of the hard skills I possess, I don't feel intimidated to learn something new to deliver challenging tasks. 👨‍💻
     
 <div align="center" style="margin:auto">
     
