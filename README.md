@@ -19,7 +19,7 @@
 
 Hello!! I'm Celio Junior. :wave: :wave:
 
-I am a Brazilian developer living in Australia, passionate about web development and technology, working with programming since 2021.
+I am a Brazilian developer living in Australia, passionate about web development and technology, working with programming since 2020.
 
 As a way to improve my skills and work flow, I've been building some personal projects - such as e-commerce, landing pages and management systems - using different tools,
 focusing in problem shooting, archtecture and good practice.
